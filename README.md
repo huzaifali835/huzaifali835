@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzaifali835
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning mobile application development
+- 🌱 I’m currently learning React JS and Typescript
 - 💞️ contact me with my email huzaifali795@gmail.com
 
 <!---
